@@ -35,6 +35,9 @@ LANGUAGE ~Espanol (traduccion por Pattoko at ClanDLAN.net)~
 		 ~kitanya/lang/spanish/kitsetup.tra~
 //		 ~kitanya/lang/english/kitsetup.tra~
 
+LANGUAGE ~Schinese~
+		 ~schinese~
+		 ~kitanya/lang/schinese/kitsetup.tra~
 
 /* ========================================== *
  *  Kitanya Conversation/Romance Mod for BG2  *
@@ -72,7 +75,6 @@ OUTER_FOR (i = 3 ; i < 19 ; ++i) BEGIN
 			WRITE_BYTE 0x2f (THIS BOR BIT1)	// add wizard slayer flag
 		BUT_ONLY
 	END
-END
 
 
 /* ==================================== *
