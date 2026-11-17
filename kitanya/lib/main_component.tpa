@@ -132,14 +132,14 @@ COPY ~kitanya/items/r!kitswd.itm~ ~override~
 	SAY NAME2 @161
 	SAY DESC @162
 BUT_ONLY
-protection poison
-63 resis ùagie
+// protection poison
+// 63 resis ùagie
 // Mage Slayer Shield
 COPY ~kitanya/items/r!kitshd.itm~ ~override~
 	SAY NAME2 @163
 	SAY DESC @164
 BUT_ONLY
-verif couleurs
+// verif couleurs
 
 // Bringer of Vengeance: Kitanya's Plate Mail
 COPY ~kitanya/items/r!kitplt.itm~ ~override~
@@ -160,14 +160,14 @@ COPY ~kitanya/items/r!kitrbk.itm~ ~override~
 	SAY NAME2 @169
 	SAY DESC @170
 BUT_ONLY
-removed magical flag - restriction flags - header (arrow!)
+// removed magical flag - restriction flags - header (arrow!)
 
 // Ring of the Seldarine
 COPY ~kitanya/items/r!kitrng.itm~ ~override~
 	SAY NAME2 @171
 	SAY DESC @172
 BUT_ONLY
-28 ou 123
+// 28 ou 123
 
 
 /* ------------------- *
@@ -180,7 +180,7 @@ COPY ~kitanya/spells/r!kitcrm.spl~ ~override~
 
 COPY ~kitanya/spells/r!kitdrw.spl~ ~override~
      ~kitanya/spells/r!kitnrm.spl~ ~override~
-todo is_ee
+// todo is_ee
 
 
 /* ---------------------------------- *
